@@ -67,3 +67,4 @@ clean:
 	cd 009; make clean
 	cd 010; make clean
 	cd 011; make clean
+	cd 012; make clean
