@@ -1,0 +1,9 @@
+int is_prime(int n){
+int count_digits(int n){
+int is_palindrome(int n){
+int next_lower_palindrome(int n){
+   int primes[8] = {2, 3, 5, 7, 11, 13, 17, 19};
+   int prime_cnt[8] = {4, 2, 1, 1, 1, 1, 1, 1};
+int is_prime(int n){
+int is_prime(int n){
+int is_prime(int n){
